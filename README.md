@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,bash,blender,cpp,cs,css,figma,git,github,html,js,latex" />
-    <img src="https://skillicons.dev/icons?i=md,octave,php,powershell,py,sass,threejs,ts,ubuntu,unity,vim,visualstudio,vscode" /><br/>
+    <img src="https://skillicons.dev/icons?i=md,octave,php,powershell,py,sass,threejs,ts,ubuntu,unity,vim,visualstudio,vscode,wordpress" /><br/>
 </div>
 
 
